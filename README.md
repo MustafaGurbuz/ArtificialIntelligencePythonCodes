@@ -1,2 +1,1 @@
 # ArticialIntelligencePythonCodes
-# ArticialIntelligencePythonCodes
